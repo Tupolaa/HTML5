@@ -41,7 +41,8 @@ nav ul{
     color: black;
 }
 .top-menu a:visited{
-    text-decoration-line: underline;
+   color: rgb(119, 199, 15);
+   
 }
 
 .top-menu a:hover{
@@ -62,6 +63,7 @@ section{
 img{
 max-width: 250px;
 max-height: 250px;
+border-style: inset;
 
 
 }
