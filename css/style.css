@@ -63,7 +63,7 @@ section{
 img{
 max-width: 250px;
 max-height: 250px;
-border-style: inset;
+border-style: dotted;
 
 
 }
@@ -71,7 +71,8 @@ border-style: inset;
 footer{
 background-color: black;
 color: antiquewhite;
-padding: 1em;
+padding: 20px;
+text-align: center;
 
 
 }
