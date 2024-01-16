@@ -1,0 +1,59 @@
+header{
+    background-color: beige;
+    text-align: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+ 
+ 
+}
+
+main {
+      display: flex;
+      justify-content: center;
+      
+      
+      
+    }
+    aside{
+        flex-grow: 0.1;
+        
+    }
+    aside li{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-top: 10px;
+        margin-left: 20px;
+        font-size: 20px;
+        list-style-type: none;
+    }
+    article{
+        
+        flex: 1;
+        
+        
+    }
+    section{
+        background-color: rgb(16, 218, 184);
+        padding: 5px;
+        margin: 5px;
+    }
+    
+    article p{
+        color: rgb(58, 66, 73);
+    }
+    footer{
+        background-color: beige;
+        text-align: center;
+        padding: 1em;
+    }
+    footer p{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 20px;
+    }
+    
+
+    
